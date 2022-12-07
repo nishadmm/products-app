@@ -1,2 +1,7 @@
 # Products App
-# products-app
+
+### Technologies Used
+
+React JS with Typescript <br>
+Redux  <br>
+TailwindCSS
